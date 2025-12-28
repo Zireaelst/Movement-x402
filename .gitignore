@@ -46,3 +46,12 @@ next-env.d.ts
 # Misc
 .turbo
 .cache
+
+# Movement / Aptos Config (PRIVATE KEYS!)
+**/.movement/
+**/.aptos/
+**/config.yaml
+backend/move-contracts/.movement/
+backend/move-contracts/build/
+~/.movement/
+~/.aptos/
